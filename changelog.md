@@ -67,3 +67,7 @@
     
 0.3.0.3
     Fixed URL in .version file
+
+0.3.0.4
+	Thanks to github user @TonkaCrash
+		Fix CLS Needs statements
